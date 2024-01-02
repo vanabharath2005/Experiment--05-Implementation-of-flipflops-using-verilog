@@ -1,5 +1,4 @@
-### Name: VANABHARATH.D
-### Roll No: 23000857
+
 # Experiment 05: Implementation of flipflops using verilog
 # Aim
 To implement all the flipflops(SR, JK ,D & T) using verilog and validating their functionality using their functional tables
